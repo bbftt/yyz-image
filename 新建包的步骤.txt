@@ -1,0 +1,11 @@
+建仓库
+配npm-token
+在npm图床拉库——git clone ssh
+此时生成新的文件夹
+在改文件下执行npm init
+回车，注意作者名（bbftt）
+把其他包中的.github复制过来
+再把图片放到该文件夹下
+第一次提交npm publish（如果关机需要重新登录npm login 用户名：bbftt 密码：20000618hjj email：2861786825）
+之后所以的版本都按提交步骤的TXT四个命令执行
+
